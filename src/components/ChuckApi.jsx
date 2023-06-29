@@ -25,7 +25,7 @@ export default function ChuckApi() {
         >
           Chuck Norris JOKE
         </button>
-        <h1 className="text-2xl overflow-auto pt-10">{joke}</h1>
+        <h1 className="text-2xl overflow-auto pt-10">{joke}</h1> 
       </div>
     </div>
   );
