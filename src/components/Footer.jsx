@@ -8,7 +8,7 @@ function Footer() {
           <p className="sm:ml-20 ml-5 py-5 sm:py-10">Name:Takács Krisztián</p>
           
           <p className="sm:ml-20 ml-5 py-5 sm:py-10">Email:takybre93@gmail.com</p>
-          <p className="sm:ml-20 ml-5 py-5 sm:py-10"><a href="https://www.github.com/taky93"></a>Github</p>
+          <p className="sm:ml-20 ml-5 py-5 sm:py-10"><a href="https://www.github.com/taky93">Github</a></p>
          
         </section>
       </div>
